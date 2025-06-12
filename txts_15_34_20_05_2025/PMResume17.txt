@@ -1,0 +1,42 @@
+Senior IT Project Manager
+
+Name: Ivan Holub
+Email: ivan.holub@example.com
+Phone: +380 93 777 8899
+Location: Lviv, Ukraine
+
+Objective:
+
+Senior Project Manager with 10+ years of experience delivering enterprise software in Agile/Waterfall environments. Looking for a leadership role in an international IT company.
+
+Education:
+
+BSc in Software Engineering, Lviv Polytechnic (2006–2010)
+
+Certifications:
+
+PMP, PMI-ACP
+
+SAFe Certified Agilist
+
+Skills:
+
+Project lifecycle management
+
+Budgeting, risk assessment, stakeholder communication
+
+Tools: Jira, Asana, MS Project
+
+English: Fluent (C1)
+
+Ukrainian: Native
+
+Experience:
+
+PM at EPAM Systems (2014–2021)
+
+PM Lead at Intellias (2021–present)
+
+Led distributed teams of 20+
+
+Delivered fintech and eCommerce platforms

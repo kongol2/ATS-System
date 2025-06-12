@@ -1,0 +1,34 @@
+Junior Java Developer
+
+Name: Ivan Petrov
+Email: ivan.petrov@example.com
+Phone: +380 63 123 4567
+Location: Lviv, Ukraine
+
+Objective:
+
+Recent Computer Science graduate seeking a junior Java developer position to apply strong foundational knowledge and grow professionally in a team environment.
+
+Education:
+
+Bachelor's in Computer Science, Lviv Polytechnic National University (2021–2025)
+
+Skills:
+
+Java SE, OOP, JDBC
+
+Git, IntelliJ IDEA
+
+Basic SQL
+
+XML/JSON
+
+English: Intermediate (B1)
+
+Ukrainian: Native
+
+Experience:
+
+Student Project: Library Management System (Java, MySQL)
+
+Internship (3 months): Java intern at SoftServe

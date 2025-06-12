@@ -1,0 +1,30 @@
+Junior C++ Developer
+
+Name: Olha Marchenko
+Email: olha.marchenko@example.com
+Phone: +380 95 888 7654
+Location: Vinnytsia, Ukraine
+
+Objective:
+
+Aspiring C++ developer with a Master’s degree in applied mathematics and a passion for algorithms and simulation. Eager to join a team working on scientific or engineering software.
+
+Education:
+
+Master’s in Applied Math, Vinnytsia National Technical University (2018–2023)
+
+Skills:
+
+C++, OOP, STL
+
+Numerical Methods, Linear Algebra Libraries (Eigen)
+
+English: Upper-Intermediate (B2)
+
+Ukrainian: Native
+
+Experience:
+
+University thesis: “Numerical Simulation of Heat Transfer in 2D Systems (C++)”
+
+Contributed to open-source modeling tools on GitHub

@@ -1,0 +1,39 @@
+Practical ML Engineer (Self-Taught, Strong Portfolio)
+
+Name: Andrii Lytvyn
+
+Email: andrii.lytvyn.ml@gmail.com
+
+Phone: +380 68 776 1123
+
+Professional Summary:
+
+Self-taught ML Engineer with over 2 years of freelance experience and a year of work in a computer vision startup. Passionate about solving real-world problems using deep learning and automation. Experienced in building end-to-end ML systems, especially for image-based applications.
+
+Education:
+
+Machine Learning Specialization, Coursera (Andrew Ng)
+
+Fast.ai Deep Learning Course
+
+Completed several online bootcamps on DL and AI
+
+Experience:
+
+ML Engineer – Freelance/Startup Work
+
+Developed license plate recognition using OpenCV + YOLO
+
+Created API services for image classification with FastAPI and Docker
+
+Built retrainable ML pipelines deployed on AWS
+
+Skills:
+
+Python, OpenCV, TensorFlow, Keras
+
+Image recognition, CNN, transfer learning
+
+Git, Docker, Linux
+
+Languages: Ukrainian (native), English (Basic)

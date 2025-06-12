@@ -1,0 +1,34 @@
+Mid-Level Data Analyst
+
+Name: Roman Kozlov
+Email: roman.kozlov@example.com
+Phone: +380 99 456 7891
+Location: Kyiv, Ukraine
+
+Objective:
+Analytical and detail-oriented data analyst with 3+ years of experience in e-commerce and marketing analytics. Interested in driving insights in a product-focused team.
+
+Education:
+Bachelor of Applied Mathematics, Taras Shevchenko National University of Kyiv (2015–2019)
+Master of Data Science, Ukrainian Catholic University (2019–2021)
+
+Skills:
+
+SQL, Python (pandas, NumPy)
+
+Tableau, Power BI
+
+A/B testing, statistical analysis
+
+Languages:
+
+English: Advanced
+
+Ukrainian: Native
+
+Experience:
+Data Analyst, E-commerce Retailer (2021–2024)
+
+Built dashboards to monitor sales KPIs
+
+Created automated reports for the marketing department

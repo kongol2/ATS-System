@@ -1,0 +1,36 @@
+Ruby/Java Full-Stack Developer — English Speaker, Master's Degree
+
+Name: Oleksandra Melnyk
+Email: oleksandra.m@example.com
+Phone: +380 50 112 2233
+Location: Kharkiv, Ukraine
+
+Objective:
+
+Experienced full-stack developer with a Master's degree and strong skills in both Ruby and Java, looking to contribute to a SaaS platform.
+
+Education:
+
+Master's in Software Engineering, Kharkiv National University (2015–2021)
+
+Skills:
+
+Java (Spring Boot), Ruby on Rails
+
+JavaScript (React), HTML/CSS
+
+PostgreSQL, MongoDB
+
+Docker, Git, CI/CD
+
+English: Upper-Intermediate (B2)
+
+Ukrainian: Native
+
+Experience:
+
+Full-Stack Developer, StartUpSoft (2021–2025)
+
+Developed end-to-end features
+
+Maintained test coverage with RSpec and JUnit

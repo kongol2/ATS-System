@@ -1,0 +1,33 @@
+Data Scientist
+
+Name: Mariia Yaremchuk
+
+Email: m.yaremchuk@bioai.org
+
+Phone: +380 50 445 2288
+
+Professional Summary:
+
+Analytical and research-driven data scientist with a PhD in technical sciences and a background in bioinformatics. Specializes in statistical modeling and data preprocessing for genetic analysis. Strong academic experience in machine learning techniques and scientific data analysis.
+
+Education:
+
+PhD in Information Technology, Kharkiv National University of Radio Electronics – Defended: 2019
+
+MSc in Physics and Technology, KhNURE – 2014
+
+Research Experience:
+
+Built predictive models to detect gene mutations based on DNA sequence data
+
+Applied SVM and random forests for biological classification problems
+
+Authored 5 scientific publications on ML in genomics
+
+Skills:
+
+Tools: R, Python (seaborn, matplotlib), SciPy
+
+Modeling: SVM, Decision Trees, ANOVA
+
+Languages: Ukrainian (native), Russian (fluent)

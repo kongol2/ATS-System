@@ -1,0 +1,36 @@
+Mid-Level Ruby Developer
+
+Name: Andriy Kravets
+Email: andriy.kravets@example.com
+Phone: +380 97 234 5678
+Location: Ivano-Frankivsk, Ukraine
+
+Objective:
+
+Ruby developer with 2 years of experience in building web applications using Ruby on Rails. Seeking a position to further develop backend skills and contribute to real-world projects.
+
+Education:
+
+College of Information Technology, major in Software Development (2017–2020)
+
+Skills:
+
+Ruby, Ruby on Rails
+
+PostgreSQL, ActiveRecord
+
+HTML, ERB, Bootstrap
+
+Git
+
+Languages:
+
+Ukrainian, Russian: Fluent
+
+Experience:
+
+Ruby Developer, local web studio (2021–2023)
+
+Developed CRM systems using Ruby on Rails
+
+Integrated third-party payment APIs into client platforms

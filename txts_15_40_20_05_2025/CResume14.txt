@@ -1,0 +1,34 @@
+Career Switcher
+
+Name: Yulia Stepanenko
+Email: yulia.stepanenko@example.com
+Phone: +380 93 112 3344
+Location: Zaporizhzhia, Ukraine
+
+Objective:
+
+Motivated professional transitioning from QA engineering to C development. Strong analytical thinking and team communication, now seeking a role in embedded or firmware programming.
+
+Education:
+
+Bachelor’s in Electronics, Zaporizhzhia National Technical University (2010–2014)
+
+Embedded C Bootcamp, Prometheus (2024)
+
+Skills:
+
+C, Makefiles, Microcontrollers (STM32 basics)
+
+Debugging, Unit Testing
+
+Jira, Agile/Scrum
+
+English: Pre-Intermediate (A2)
+
+Ukrainian: Native
+
+Experience:
+
+QA Engineer, telecom company (2015–2023)
+
+Developed C drivers for UART/I2C as part of bootcamp projects

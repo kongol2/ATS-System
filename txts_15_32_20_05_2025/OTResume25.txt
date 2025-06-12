@@ -1,0 +1,23 @@
+Business Analyst
+
+Name: Valentyn Hlushko
+Email: valentyn.hlushko@example.com
+Phone: +380 97 777 8811
+Location: Vinnytsia, Ukraine
+
+Objective:
+Entry-level business analyst with a strong background in finance and communication. Seeking to grow in Agile product teams.
+
+Education:
+
+MA in Finance and Analytics, Vinnytsia National Technical University (2016–2021)
+
+Skills:
+User Stories, Requirement Gathering, Communication
+English: Intermediate (B1)
+
+Experience:
+
+Internship as BA at a banking product company (2021)
+
+Helped prepare documentation, coordinated with QA

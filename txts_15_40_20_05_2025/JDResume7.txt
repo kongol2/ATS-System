@@ -1,0 +1,40 @@
+Senior Java Developer
+
+Name: Dmytro Shevchenko
+Email: d.shevchenko.dev@example.com
+Phone: +380 66 345 6789
+Location: Kyiv, Ukraine
+
+Objective:
+
+Senior Java developer with over 8 years of commercial experience in backend systems, looking to join a fast-paced international team.
+
+Education:
+
+Self-taught, no formal university degree
+
+Skills:
+
+Java 8–17, Spring Boot, Hibernate
+
+REST APIs, Maven, Docker
+
+Kubernetes, AWS (EC2, S3)
+
+Jenkins, GitLab CI
+
+English: Fluent (C1)
+
+Ukrainian: Native
+
+Experience:
+
+Java Developer, EPAM Systems (2016–2020)
+
+Senior Java Developer, GlobalLogic (2020–2024)
+
+Microservice architecture
+
+Performance optimization
+
+Mentoring junior developers

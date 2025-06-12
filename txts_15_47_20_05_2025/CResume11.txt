@@ -1,0 +1,32 @@
+Junior C Developer
+
+Name: Artem Melnyk
+Email: artem.melnyk@example.com
+Phone: +380 67 123 4567
+Location: Kyiv, Ukraine
+
+Objective:
+
+Recent Computer Science graduate with strong C programming fundamentals. Eager to apply academic knowledge in real-world systems and embedded projects.
+
+Education:
+
+Bachelor’s in Computer Science, NTUU “KPI” (2019–2023)
+
+Skills:
+
+C, Pointers, Memory Management
+
+Git, Linux (basic shell scripting)
+
+Data Structures, Algorithms
+
+English: Intermediate (B1)
+
+Ukrainian: Native
+
+Experience:
+
+Final year project: “Simple Shell in C”
+
+GitHub contributions to small open-source C projects

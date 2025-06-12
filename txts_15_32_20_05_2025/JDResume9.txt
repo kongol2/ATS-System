@@ -1,0 +1,38 @@
+Entry-Level Ruby Developer
+
+Name: Natalia Danylenko
+Email: natalia.danylenko@example.com
+Phone: +380 95 998 7654
+Location: Odesa, Ukraine
+
+Objective:
+
+Aspiring Ruby developer transitioning from project management. Eager to apply newly acquired coding skills and strong communication in tech teams.
+
+Education:
+
+Online Bootcamp: Ruby on Rails (GoIT, 2024)
+
+Bachelor's in Economics, Odesa National Economic University (2010–2014)
+
+Skills:
+
+Ruby, Sinatra, Ruby on Rails (junior level)
+
+Git, HTML, Bootstrap
+
+Communication, Agile/Scrum
+
+English: Pre-Intermediate (A2)
+
+Ukrainian, Russian: Native
+
+Experience:
+
+Project Manager, marketing agency (2015–2023)
+
+Freelance Ruby Projects:
+
+Portfolio website for a client
+
+Blog engine on Rails

@@ -1,0 +1,41 @@
+📄 Resume 5 – Senior ML Engineer / Tech Lead
+
+Name: Dmytro Havryliuk
+
+Email: d.havryliuk@mlsolutions.io
+
+Phone: +380 96 333 8844
+
+Professional Summary:
+
+Seasoned Machine Learning Engineer with 11+ years of experience in the field. Strong leadership skills and a proven track record of building scalable ML pipelines, managing teams, and deploying models into production. Deep knowledge in NLP, recommender systems, and cloud computing.
+
+Education:
+
+MSc in Computer Science, Taras Shevchenko National University of Kyiv – Graduated: 2010
+
+Work Experience:
+
+Senior ML Engineer – Grammarly (2018–2024)
+
+Built contextual language correction modules using deep learning
+
+Led a team of 6 ML engineers; implemented CI/CD pipelines for ML workflows
+
+Designed A/B testing infrastructure for ML models
+
+Lead Data Scientist – EPAM (2014–2018)
+
+Developed recommendation engine for large-scale retail platform
+
+Deployed Spark-based ML solutions on AWS
+
+Skills:
+
+ML/DL: PyTorch, TensorFlow, LightGBM
+
+Cloud: GCP, AWS, Azure
+
+Big Data: Spark, Kafka, Hadoop
+
+Languages: Ukrainian (native), English (Fluent)

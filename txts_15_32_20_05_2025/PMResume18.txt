@@ -1,0 +1,36 @@
+IT Team Lead
+
+Name: Mykola Baranov
+Email: mykola.baranov@example.com
+Phone: +380 95 678 9123
+Location: Odesa, Ukraine
+
+Objective:
+
+Experienced software engineer transitioning into a leadership role. Passionate about code quality and mentoring junior developers.
+
+Education:
+
+BSc in Applied Mathematics, Odesa National University (2010–2014)
+
+Skills:
+
+Tech stack: Java, Spring Boot, Docker
+
+Code reviews, mentoring
+
+Basic planning, task estimation
+
+English: Intermediate (B1)
+
+Ukrainian: Native
+
+Experience:
+
+Java Developer → Senior → Tech Lead at local outsourcing firm (2015–2024)
+
+Coordinated 6 engineers
+
+Introduced CI/CD pipelines
+
+Needs development in customer communication and negotiation

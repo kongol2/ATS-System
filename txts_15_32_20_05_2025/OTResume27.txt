@@ -1,0 +1,23 @@
+Data Analyst
+
+Name: Pavlo Zaiets
+Email: pavlo.zaiets@example.com
+Phone: +380 67 889 0033
+Location: Ternopil, Ukraine
+
+Objective:
+Recent graduate in Data Science looking for a junior analyst position to apply skills in data cleaning, visualization, and reporting.
+
+Education:
+
+BSc in Data Science, Ukrainian Catholic University (2019–2023)
+
+Skills:
+Python, Pandas, SQL, Tableau
+English: Intermediate (B1)
+
+Experience:
+
+Capstone project on retail sales forecasting
+
+Kaggle contributor

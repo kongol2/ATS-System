@@ -1,0 +1,35 @@
+Senior System Administrator
+
+Name: Serhii Bondar
+Email: serhii.bondar@example.com
+Phone: +380 63 789 6543
+Location: Vinnytsia, Ukraine
+
+Objective:
+System administrator with over 10 years of experience in maintaining Linux and Windows servers. Looking for a backend infrastructure role with minimal customer interaction.
+
+Education:
+Vinnytsia National Technical University, Computer Engineering (2007–2012)
+
+Skills:
+
+Linux (Ubuntu, CentOS), Windows Server
+
+Bash, PowerShell
+
+Docker, Ansible, Jenkins
+
+Network monitoring
+
+Languages:
+
+English: Basic
+
+Ukrainian: Fluent
+
+Experience:
+System Administrator, Manufacturing Company (2013–2023)
+
+Managed internal servers and databases
+
+Handled system outages and updates

@@ -1,0 +1,23 @@
+Technical Writer
+
+Name: Olha Sokolova
+Email: o.sokolova@example.com
+Phone: +380 93 445 6677
+Location: Kyiv, Ukraine
+
+Objective:
+Detail-oriented technical writer with excellent English and strong grammar skills. Aiming to create clear and useful documentation for users and developers.
+
+Education:
+
+MA in English Philology, Kyiv-Mohyla Academy (2014–2019)
+
+Skills:
+Technical Documentation, Markdown, Confluence
+English: Fluent (C1)
+
+Experience:
+
+Technical Writer at SaaS firm (2019–2024)
+
+Created user manuals, API docs, onboarding guides

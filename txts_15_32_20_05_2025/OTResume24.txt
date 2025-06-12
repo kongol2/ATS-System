@@ -1,0 +1,23 @@
+DevOps Engineer
+
+Name: Serhii Lysenko
+Email: serhii.lysenko@example.com
+Phone: +380 66 334 5566
+Location: Kharkiv, Ukraine
+
+Objective:
+Experienced DevOps engineer with hands-on knowledge in CI/CD, cloud platforms, and infrastructure automation. Ready for challenging enterprise projects.
+
+Education:
+
+Self-taught, completed multiple DevOps bootcamps
+
+Skills:
+Docker, Kubernetes, Jenkins, AWS, Terraform
+English: Upper-Intermediate (B2)
+
+Experience:
+
+DevOps Engineer, FinTech startup (2018–2024)
+
+Designed CI/CD pipelines, maintained AWS infrastructure

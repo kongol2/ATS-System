@@ -1,0 +1,23 @@
+QA Engineer
+
+Name: Dmytro Sytnyk
+Email: d.sytnyk@example.com
+Phone: +380 63 556 7788
+Location: Chernihiv, Ukraine
+
+Objective:
+Quality Assurance specialist with experience in manual and API testing. Looking for a stable QA role in a Ukrainian product company.
+
+Education:
+
+Kyiv College of Information Technologies (2015–2018)
+
+Skills:
+Manual Testing, Postman, Jira, TestRail
+Ukrainian, Russian: Fluent
+
+Experience:
+
+QA Engineer, CRM company (2019–2023)
+
+Created test cases, managed bug reports, API testing

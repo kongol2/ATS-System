@@ -1,0 +1,37 @@
+Senior QA Engineer
+
+Name: Viktor Hlushko
+Email: viktor.glushko@example.com
+Phone: +380 66 778 9901
+Location: Kyiv, Ukraine
+
+Objective:
+Experienced QA Engineer with over 8 years in manual and automated testing. Seeking to join a growing tech company to drive product quality.
+
+Education:
+National Technical University of Ukraine “Igor Sikorsky KPI”, Software Engineering (2008–2013)
+
+Skills:
+
+Manual testing, test planning
+
+Selenium, Cypress
+
+REST API, Postman, JMeter
+
+Jira, TestRail
+
+Languages:
+
+English: Intermediate
+
+Ukrainian, Russian: Fluent
+
+Experience:
+Senior QA Engineer, Fintech App (2018–2024)
+
+Led a team of 4 testers
+
+Developed test plans and automation scripts
+
+Decreased regression bugs by 30%

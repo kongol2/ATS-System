@@ -1,0 +1,35 @@
+ML Engineer (Mid-Level)
+
+Name: Olena Kovalchuk
+
+Email: olena.kovalchuk@softserve.ua
+
+Phone: +380 67 987 6543
+
+Professional Summary:
+
+Experienced ML Engineer with over 3 years of industry experience in developing and deploying machine learning solutions. Strong focus on NLP and text analytics for commercial applications. Proven ability to work in cross-functional teams and deliver scalable solutions.
+
+Education:
+
+MSc in Applied Mathematics, Ivan Franko National University of Lviv – Graduated: 2020
+
+Professional Experience:
+
+Machine Learning Engineer – SoftServe, Lviv, Ukraine (2021–Present)
+
+Built and deployed NLP models for sentiment analysis of client reviews
+
+Used BERT embeddings and fine-tuned transformer models for document classification
+
+Collaborated with data engineers to build scalable pipelines using MLflow
+
+Skills:
+
+ML: scikit-learn, TensorFlow, transformers
+
+Data: SQL, pandas, NumPy
+
+Tools: Docker, Git, MLflow
+
+Languages: Ukrainian (native), English (Upper-Intermediate)

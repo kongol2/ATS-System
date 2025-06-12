@@ -1,0 +1,31 @@
+Junior ML Engineer (Entry-Level)
+
+Name: Ivan Petrenko
+
+Email: ivan.petrenko@gmail.com
+
+Phone: +380 63 123 4567
+
+Professional Summary:
+
+Enthusiastic and highly motivated recent graduate with a strong academic background in computer science and data analytics. Eager to start a career in machine learning, with hands-on experience from university projects in classification and regression using Python libraries.
+
+Education:
+
+BSc in Computer Science, Igor Sikorsky Kyiv Polytechnic Institute, Ukraine – Graduated: 2024
+
+Skills:
+
+Programming: Python, NumPy, pandas, matplotlib
+
+ML: Linear Regression, Logistic Regression, Decision Trees
+
+Tools: Jupyter Notebook, Git, scikit-learn
+
+Languages: Ukrainian (native), English (Intermediate)
+
+Academic Projects:
+
+Email Spam Classifier: Developed a Naive Bayes classifier using scikit-learn
+
+Sales Analysis Dashboard: Performed EDA on retail sales data and visualized trends with matplotlib

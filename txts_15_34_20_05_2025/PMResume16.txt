@@ -1,0 +1,34 @@
+Junior Project Manager
+
+Name: Kateryna Dovhan
+Email: kateryna.dovhan@example.com
+Phone: +380 68 112 2233
+Location: Kyiv, Ukraine
+
+Objective:
+
+Ambitious IT Project Manager with a Master’s degree in Computer Science and Scrum certification. Seeking a junior PM position to grow in Agile project delivery.
+
+Education:
+
+Master’s in Computer Science, Taras Shevchenko National University of Kyiv (2017–2023)
+
+Certifications:
+
+Certified Scrum Master (CSM) – 2023
+
+Skills:
+
+Jira, Trello, Confluence
+
+Scrum, Kanban, Agile principles
+
+Team coordination, Time management
+
+English: Upper-Intermediate (B2)
+
+Experience:
+
+Intern PM, local startup (6 months)
+
+Managed 3 sprints with 5-person development team

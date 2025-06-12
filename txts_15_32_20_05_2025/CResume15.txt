@@ -1,0 +1,36 @@
+Mid-Level C++ Developer
+
+Name: Bohdan Chernov
+Email: bohdan.chernov@example.com
+Phone: +380 63 456 7890
+Location: Kharkiv, Ukraine
+
+Objective:
+
+C++ developer with solid experience in developing software for automated control systems. Seeking a stable position in a Ukrainian company to continue growing in industrial software development.
+
+Education:
+
+Faculty of Mechanics and Mathematics, V. N. Karazin Kharkiv National University (2015–2019)
+
+Skills:
+
+C++, STL, Multithreading
+
+Qt, CMake
+
+OpenCV, Boost
+
+Languages:
+
+English: None
+
+Ukrainian, Russian: Fluent
+
+Experience:
+
+C++ Developer, Automation Equipment Plant (2019–2023)
+
+Developed user interfaces for industrial controllers
+
+Optimized performance of real-time control systems

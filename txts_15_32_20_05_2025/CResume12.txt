@@ -1,0 +1,36 @@
+Senior C/C++ Developer
+
+Name: Danylo Hrytsenko
+Email: dan.hrytsenko@example.com
+Phone: +380 66 234 5678
+Location: Lviv, Ukraine
+
+Objective:
+
+Experienced C/C++ systems programmer with 10+ years in embedded and low-level software development. Looking for opportunities in international R&D projects.
+
+Education:
+
+Self-educated; completed multiple courses on Coursera/Udemy
+
+Skills:
+
+C, C++, Embedded Systems, RTOS
+
+Linux Kernel Modules, Device Drivers
+
+GDB, Valgrind, CMake, Yocto
+
+English: Fluent (C1)
+
+Ukrainian: Native
+
+Experience:
+
+Embedded Engineer, GlobalLogic (2013–2018)
+
+Senior Systems Developer, Luxoft (2018–2024)
+
+Developed firmware for ARM-based devices
+
+Worked with automotive-grade safety standards (ISO 26262)
